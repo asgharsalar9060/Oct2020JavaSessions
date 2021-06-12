@@ -1,6 +1,6 @@
 package OOP_Abstract;
 
-public class TestApplication {
+public class ApplicationTest {
 
 	public static void main(String[] args) {
 		

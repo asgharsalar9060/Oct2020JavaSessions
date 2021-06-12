@@ -9,7 +9,7 @@ public class Employee {
 	boolean isPermenant;
 	
 	//constructor: name of const. will remain same as the class name
-	//What is the advantage of constructor? it helps to design the object - what kind of object you want to create...
+	//What is the advantage of constructor? it helps to design the object - whatever kind of object you want to create...
 	//it looks like a function but it's not a function
 	//constructor never return a value: no return and no void keywords
 	//but function may or may not return a value

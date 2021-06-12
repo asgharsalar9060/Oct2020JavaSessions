@@ -18,7 +18,7 @@ public class ArrayListTest {
 		ar.add(12.12);
 		ar.add(true);
 		
-		System.out.println(ar.get(3));
+		System.out.println(ar.get(0));
 		
 		//Generic in ArrayList:
 		

@@ -30,7 +30,7 @@ public class TestHospital {
 		us.emergencyServices();
 		us.cardioServices();
 		us.orthoServices();
-		//we can't access any method of UKMedical or IndianMedical because Java do a reference type check while calling...
+		//we can't access any method of UKMedical or IndianMedical because Java does a reference type check while calling...
 		
 		//Down casting: can't do down casting
 		

@@ -1,6 +1,6 @@
 package OOP_Abstract;
 
-public class TestPage {
+public class PageTest {
 
 	public static void main(String[] args) {
 

@@ -5,6 +5,10 @@ public class StringManipulationConcepts {
 	public static void main(String[] args) {
 
 		String str = "This is my Java code and I am so happy";
+		
+		System.out.println(str.indexOf('a', str.indexOf('a', str.indexOf('a') + 1) + 1));
+		System. out.println(str.indexOf('a', str.indexOf('a', str.indexOf('a', str.indexOf('a') + 1) + 1) + 1));
+		
 		System.out.println(str.length());
 		
 		int len = str.length();
