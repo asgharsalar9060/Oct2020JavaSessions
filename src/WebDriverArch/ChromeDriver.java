@@ -13,13 +13,13 @@ public class ChromeDriver implements WebDriver{
 
 	@Override
 	public void getTitle() {
-		System.out.println("title is: "+ "google");
+		System.out.println("title is: ");
 		
 	}
 
 	@Override
 	public void getPageUrl() {
-		System.out.println("page url: "+ "www.google.com");
+		System.out.println("page url: ");
 		
 	}
 
